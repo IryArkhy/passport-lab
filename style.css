@@ -1,0 +1,59 @@
+body {
+    background-color:#ECECFF; 
+}
+
+.serial {
+    text-align: center; 
+    font-family:Verdana, Arial, Helvetica, sans-serif; 
+    color:#666666; 
+    letter-spacing: 10px; 
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.foto {
+    position: absolute; 
+    left: 320px;
+    top: 67px;
+    width: 150px;
+}
+
+.name {
+    text-align: center;
+    font-size: 16px; 
+    text-transform: uppercase; 
+    font-weight: bold; 
+    position: relative; 
+    top: 252px; 
+    height: 16px;
+}
+
+.field {
+    text-align: center;
+    font-size: 16px; 
+    font-weight: bold; 
+    position: relative; 
+    top: 252px; 
+    height: 16px;
+}
+
+.note {
+    position: relative;
+    top: 252px; 
+    text-align: center; 
+    font-family: Verdana; 
+    font-style: italic; 
+    top: 250px; 
+    font-size: 10px; 
+    height: 10px;
+}
+
+.sign {
+    position: relative;
+    top: 370px; 
+    text-align: center; 
+    font-family: Verdana; 
+    font-style: italic; 
+    font-size: 10px;
+}

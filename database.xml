@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="passport.xsl"?>
+<!DOCTYPE passport SYSTEM "passport.dtd">
+<database>
+    <passport>
+        <number class="serial">CO 069201</number>
+        <sex>чоловіча / мужской</sex>
+        <foto>photo.png</foto>
+        <firstname_ua>Олексій</firstname_ua>
+        <secondname_ua>Геннадійович</secondname_ua>
+        <lastname_ua>Голіков</lastname_ua>
+        <birthday_ua>14 квітня 1983 року</birthday_ua>
+        <birthplace_ua>місто Київ</birthplace_ua>
+        <given_ua>Харківським РУ ГУ МВС України</given_ua>
+        <where_given_ua>в м.Києві</where_given_ua>
+        <firstname_ru>АЛЕКСЕЙ</firstname_ru>
+        <secondname_ru>ГЕННАДЬЕВИЧ</secondname_ru>
+        <lastname_ru>ГОЛИКОВ</lastname_ru>
+        <birthday_ru>14 апреля 1983 года</birthday_ru>
+        <birthplace_ru>город Киев</birthplace_ru>
+        <given_ru>Харьковское РУ ГУ МВД Украины</given_ru>
+        <where_given_ru>в г.Киеве</where_given_ru>
+    </passport>
+</database>

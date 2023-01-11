@@ -1,0 +1,22 @@
+<!DOCTYPE database
+[
+<!ELEMENT database (passport)>
+<!ELEMENT passport (number,sex,foto,firstname_ua,secondname_ua,lastname_ua,birthday_ua,birthplace_ua,given_ua,where_given_ua,firstname_ru,secondname_ru,lastname_ru,birthday_ru,birthday_ru,given_ru,where_given_ru)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT firstname_ua (#PCDATA)>
+<!ELEMENT secondname_ua (#PCDATA)>
+<!ELEMENT lastname_ua (#PCDATA)>
+<!ELEMENT birthday_ua (#PCDATA)>
+<!ELEMENT birthplace_ua (#PCDATA)>
+<!ELEMENT given_ua (#PCDATA)>
+<!ELEMENT where_given_ua (#PCDATA)>
+<!ELEMENT firstname_ru (#PCDATA)>
+<!ELEMENT secondname_ru (#PCDATA)>
+<!ELEMENT lastname_ru (#PCDATA)>
+<!ELEMENT birthday_ru (#PCDATA)>
+<!ELEMENT birthplace_ru (#PCDATA)>
+<!ELEMENT given_ru (#PCDATA)>
+<!ELEMENT where_given_ru (#PCDATA)>
+]>
